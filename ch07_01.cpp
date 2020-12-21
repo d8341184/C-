@@ -41,11 +41,23 @@ int main()
 {
 Employee eml;//
 
-cout<<"��J���u���"<<endl;
+cout<<"¿é¤J­û¤u¸ê®Æ"<<endl;
 eml.input_data();//
-cout<<"��J���u���"<<endl<<endl;
+cout<<"¿é¤J­û¤u¸ê®Æ"<<endl<<endl;
  eml.print_data();//
 
 system("pause");
 return 0;
 }
+//輸入員工資料
+//name
+//rrrr
+//age:56
+//salary:7878
+//mobile:0987655433
+//輸入員工資料
+
+//rrrr
+//56
+//7878
+//0987655433
